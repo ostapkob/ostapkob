@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on web-site
 - 📫 How to reach me ostapkob@gmail.com
+- ⌨️ No code no pain
