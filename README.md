@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ostapkob
-- 👀 I’m interested in JS, Arduino, Python, VueJS 
+- 👀 I’m interested in Node, Vue, Python, Arduino
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on web-site
 - 📫 How to reach me ostapkob@gmail.com
