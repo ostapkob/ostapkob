@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ostapkob
 - 👀 I’m interested in Node, Vue, Python, Arduino
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on web-site
+- 💞️ I’m looking to collaborate on Web App
 - 📫 How to reach me ostapkob@gmail.com
 - ⌨️ No code no pain
